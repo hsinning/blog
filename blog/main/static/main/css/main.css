@@ -1,0 +1,18 @@
+html, body {
+margin: 0;
+height: 100%; 
+}
+body {
+padding: 20px;
+background: beige;
+background-size: cover; 
+}
+ul {
+margin-bottom: 30px;
+text-align: right; }
+li {
+display: inline-block; }
+
+h2{
+  color: red;
+}
